@@ -3,6 +3,8 @@
 # export AWS_ACCESS_ID = ""
 # export AWS-ACCESS_KEY = ""
 
+#ami id is removed in the aws_instance
+
 
 provider "aws"{
     region = "us-east-1"
